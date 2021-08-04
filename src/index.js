@@ -1,3 +1,3 @@
 const homeworkPlatforms = require('@alexeenkov/homework-platforms');
 
-console.log(homeworkPlatforms.info());
+console.log(homeworkPlatforms);
